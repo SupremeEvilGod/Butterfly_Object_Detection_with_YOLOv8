@@ -1,0 +1,5 @@
+path: /content/datasets/coco8
+train: /content/datasets/coco8/images
+val: /content/datasets/coco8/images
+names:
+  - Butterfly
