@@ -1,5 +1,3 @@
-Here's the updated **README** file with the included Python code for label normalization and dataset cleaning:
-
 ---
 
 # 🦋 Butterfly Object Detection with YOLOv8
