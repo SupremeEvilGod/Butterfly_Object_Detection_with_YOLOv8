@@ -350,13 +350,12 @@ clean_dataset(image_dir, label_dir)
 
 These scores indicate good detection accuracy, though further tuning may be needed for specific scenarios.
 
-
-```markdown
-## Training and Validation Results
-
 The following graph shows the training and validation loss and performance metrics over 100 epochs for the object detection task:
 
 ![results](https://github.com/user-attachments/assets/8684314a-4636-4b79-8330-f193e6e0dda1)
+
+```markdown
+## Training and Validation Results
 
 - **train/box_loss**: Loss associated with bounding box predictions during training.
 - **train/cls_loss**: Loss associated with classification predictions during training.
