@@ -407,7 +407,7 @@ Including this explanation will not only make your results more understandable t
 
 ### Example Detections:
 
-![Sample Butterfly Detection](path/to/sample_image.jpg)
+[![Sample Butterfly Detection](path/to/sample_image.jpg)](https://github.com/user-attachments/assets/e4f8d863-def5-489d-adb2-980854bc2a3b)
 
 ---
 
