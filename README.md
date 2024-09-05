@@ -25,7 +25,7 @@ This project aims to detect butterflies in images using **YOLOv8** object detect
 
 ## Project Overview
 
-This project utilizes **YOLOv8 (You Only Look Once version 8)** for object detection. The goal is to detect butterfly species in images with high accuracy. YOLOv8 is the latest version of the YOLO series and is optimized for faster training and better performance on object detection tasks.
+This project utilizes **YOLOv8 (You Only Look Once version 8)** for object detection. The goal is to detect butterfly species in images with high accuracy. YOLOv10(currently) is the latest version of the YOLO series.But I am using YOLOv8 because I am quite familiar with its types and it is optimized for faster training and better performance on object detection tasks.
 
 ---
 
