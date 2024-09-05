@@ -356,7 +356,7 @@ These scores indicate good detection accuracy, though further tuning may be need
 
 The following graph shows the training and validation loss and performance metrics over 100 epochs for the object detection task:
 
-![Training and Validation Graph](![a4c9aee8-5d0f-42e5-8785-d43631dae19e](https://github.com/user-attachments/assets/1f0cfb9f-1521-4e9c-88cf-07c82b67ccd4))
+![Training and Validation Graph](![a4c9aee8-5d0f-42e5-8785-d43631dae19e](https://github.com/SupremeEvilGod/Butterfly_Object_Detection_with_YOLOv8/blob/main/results.png))
 
 - **train/box_loss**: Loss associated with bounding box predictions during training.
 - **train/cls_loss**: Loss associated with classification predictions during training.
