@@ -356,7 +356,7 @@ These scores indicate good detection accuracy, though further tuning may be need
 
 The following graph shows the training and validation loss and performance metrics over 100 epochs for the object detection task:
 
-![Training and Validation Graph](![a4c9aee8-5d0f-42e5-8785-d43631dae19e](./results.png))
+![Training and Validation Graph](./results.png)
 
 - **train/box_loss**: Loss associated with bounding box predictions during training.
 - **train/cls_loss**: Loss associated with classification predictions during training.
