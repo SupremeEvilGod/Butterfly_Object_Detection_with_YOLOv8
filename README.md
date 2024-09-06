@@ -403,7 +403,6 @@ The graph above illustrates the training and validation process over 100 epochs 
 
 ---
 
-Including this explanation will not only make your results more understandable to others, but also demonstrate your deep understanding of the model training process and evaluation metrics.
 
 ### Example Detections:
 
